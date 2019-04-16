@@ -5,7 +5,7 @@ class Screen extends Component {
   render() {
 
     let selectedImage = require(`./resources/images/photo_${
-      this.props.currentImageID
+      this.props.currentImageID.currentImageID
     }.jpeg`);
 
     let styles = {
