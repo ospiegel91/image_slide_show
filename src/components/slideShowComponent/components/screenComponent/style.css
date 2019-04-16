@@ -1,0 +1,8 @@
+.screen{
+    height: 80%;
+    border-radius: 12px;
+    box-shadow: 6px 6px 30px 0px rgba(0, 0, 0, 0.64);
+    background-repeat: none;
+    background-size: cover;
+    background-position: center;
+}

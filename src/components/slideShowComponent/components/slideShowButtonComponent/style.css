@@ -1,0 +1,12 @@
+.slideShowButton{
+    font-size: 52px;
+    
+}
+
+.slideShowButton:hover{
+    color:  rgb(73, 73, 73);
+    -webkit-transition: color .4s ease-out;
+    -moz-transition: color .4s ease-out;
+    -o-transition: color .4s ease-out;
+    transition: color .4s ease-out;
+}
